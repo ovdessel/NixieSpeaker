@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name NixieRadio-rescue)(type Legacy)(uri ${KIPRJMOD}/NixieRadio-rescue.lib)(options "")(descr ""))
+  (lib (name NixieRadio1)(type Legacy)(uri ${KIPRJMOD}/NixieRadio.lib)(options "")(descr ""))
+)
